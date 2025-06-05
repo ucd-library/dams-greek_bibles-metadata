@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+    {
+        "@id": "http://id.worldcat.org/fast/1808065",
+        "http://schema.org/name": "Bible. Gospels"
+    },
+    {
+        "@id":"http://id.worldcat.org/fast/1424060",
+        "http://schema.org/name": "Manuscripts"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/947178",
+        "http://schema.org/name": "Greek language"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/933420",
+        "http://schema.org/name": "Fourteenth century"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/908096",
+        "http://schema.org/name": "Eleventh century"
+    }
+]
