@@ -31,16 +31,6 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/BS2551_A4_2641.pdf"
   },
-  "schema:datePublished": [
-    {
-      "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-      "@value": "1300"
-    },
-    {
-      "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-      "@value": "1399"
-    }
-  ],
   "schema:description": "Manuscript written in miniscule on parchment; location unknown. Text in black ink; headpieces, caption, initials and marginal notes in red ink. Unidentified manuscript notes on 243v.",
   "schema:identifier": [
     "ark:/87293/d3kd1qs9k",
@@ -53,10 +43,8 @@
   "schema:license": {
     "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
-  "schema:material": [
-    "Manuscript",
-    "Parchment"
-  ],
+  "schema:material": "Manuscript",
+
   "schema:name": "The four Gospels of the New Testament. Greek. 12th cent.",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

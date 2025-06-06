@@ -31,16 +31,6 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/BS2551_A4_2642.pdf"
   },
-  "schema:datePublished": [
-    {
-      "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-      "@value": "1000"
-    },
-    {
-      "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-      "@value": "1099"
-    }
-  ],
   "schema:description": "Manuscript written on parchment. Text in black ink; captions, initials, and marginal notes in red ink. Note with Aland citation laid in.",
   "schema:identifier": [
     "ark:/87293/d3fn1106q",
@@ -53,10 +43,7 @@
   "schema:license": {
     "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
-  "schema:material": [
-    "Manuscript",
-    "Parchment"
-  ],
+  "schema:material": "Manuscript",
   "schema:name": "The four Gospels of the New Testament.",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
