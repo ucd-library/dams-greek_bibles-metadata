@@ -39,7 +39,7 @@
   "schema:image": {
     "@id": "@base:/media/images/BS2551.A4_2641_0000r.tif"
   },
-  "schema:inLanguage": "Greek",
+  "schema:inLanguage": {"@id":"https://www.iana.org/assignments/language-subtag-registry#el"},
   "schema:license": {
     "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
   },

@@ -31,7 +31,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
   },
-  "schema:description": "A couple of old Greek Bibles.",
+  "schema:description": "Two manuscript Gospels written in Greek and dating to the 12th Century.",
   "schema:identifier": "ark:/87293/d39z90k6t",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
