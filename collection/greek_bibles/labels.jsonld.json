@@ -30,7 +30,7 @@
         "http://schema.org/name": "Eleventh century"
     },
     {
-    	"@id": "https://www.iana.org/assignments/language-subtag-registry#el",
+    	"@id": "http://www.iana.org/assignments/language-subtag-registry#el",
     	"http://schema.org/name": "Greek"
     }
 ]
