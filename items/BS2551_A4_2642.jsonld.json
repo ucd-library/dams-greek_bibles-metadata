@@ -31,7 +31,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/BS2551_A4_2642.pdf"
   },
-  "schema:description": "Manuscript written on parchment. Text in black ink; captions, initials, and marginal notes in red ink. Note with Aland citation laid in. \n\n See also: \n [UC Davis Library catalog record](https://search.library.ucdavis.edu/permalink/01UCD_INST/9fle3i/alma990000309440403126) \n\n [Digital Scriptorium record](https://search.digital-scriptorium.org/catalog/DS10347)",
+  "schema:description": "Manuscript written on parchment. Text in black ink; captions, initials, and marginal notes in red ink. Note with Aland citation laid in. \n\n See also: \n [UC Davis Library catalog record](https://search.library.ucdavis.edu/discovery/fulldisplay?docid=alma990032385300403126&context=L&vid=01UCD_INST:UCD&lang=en&search_scope=DN_and_CI&adaptor=Local%20Search%20Engine&tab=UCSILSDefaultSearch&query=any,contains,BS2551.A4%202642) \n\n [Digital Scriptorium record](https://search.digital-scriptorium.org/catalog/DS10347)",
   "schema:identifier": [
     "ark:/87293/d3fn1106q",
     "BS2551.A4 2642"
