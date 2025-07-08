@@ -31,7 +31,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/BS2551_A4_2641.pdf"
   },
-  "schema:description": "Manuscript written in miniscule on parchment; location unknown. Text in black ink; headpieces, caption, initials and marginal notes in red ink. Unidentified manuscript notes on 243v.\n\n See also \n\n [UC Davis Library catalog record](https://search.library.ucdavis.edu/permalink/01UCD_INST/9fle3i/alma990000309440403126) \n\n [Digital Scriptorium record](https://search.digital-scriptorium.org/catalog/DS10345)",
+  "schema:description": "Manuscript written in miniscule on parchment; location unknown. Text in black ink; headpieces, caption, initials and marginal notes in red ink. Unidentified manuscript notes on 243v.\n\n See also: \n [UC Davis Library catalog record](https://search.library.ucdavis.edu/permalink/01UCD_INST/9fle3i/alma990000309440403126) \n\n [Digital Scriptorium record](https://search.digital-scriptorium.org/catalog/DS10345)",
     "schema:identifier": [
       "ark:/87293/d3kd1qs9k",
        "BS2551.A4 2641"
