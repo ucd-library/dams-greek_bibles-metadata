@@ -44,7 +44,7 @@
     "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
   "schema:material": "Manuscript",
-  "schema:name": "The four Gospels of the New Testament.",
+  "schema:name": "The four Gospels of the New Testament. 12th century.",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
